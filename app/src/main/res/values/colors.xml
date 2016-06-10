@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00695C</color>
+    <color name="colorAccent">#a3ffffff</color>
+    <color name="textHeading">#1b5e20</color>
+    <color name="textDetail">#7cb342</color>
+    <color name="drawer">#eeeeee</color>
+    <color name="colorHighlight">#c3c3c3</color>
+    <color name="background">#eeee</color>
+    <color name="box_background">#26c6da</color>
+    <color name="transparent_white">#74ffffff</color>
+    <color name="transparent_primary">#87009688</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
